@@ -9,3 +9,9 @@ Tested on Ubuntu 20 & Linux Mint 20!
 
 
 (if problems verify xinput id of touchscreen input).
+
+
+
+# Usage
+
+sudo ./autorotate.sh
